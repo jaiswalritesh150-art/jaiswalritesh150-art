@@ -20,12 +20,12 @@
   <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/ravishankargupta7?tab=activity">
+<a href="https://www.geeksforgeeks.org/profile/jaiswalrijf2l?tab=activity">
   <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/jaiswalritesh150">
-  <img src="https://www.hackerrank.com/dashboard?style=for-the-badge" />
+  <img src="https://www.hackerrank.com/dashboard?style=for-the-badge&logo=hackerank" />
 </a>
 
 </p>
