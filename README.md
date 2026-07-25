@@ -71,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=Git, GitHub, VS Code, Jupyter Notebook, Google Colab" />
 </p>
 
+🙏 Thanks for visiting my GitHub!
 
 
 <!--
