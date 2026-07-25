@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/jaiswalritesh150">
-  <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge" />
+  <img src="https://www.hackerrank.com/dashboard?style=for-the-badge" />
 </a>
 
 </p>
