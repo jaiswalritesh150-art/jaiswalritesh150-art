@@ -32,6 +32,10 @@
   </a>
 </p>
 
+📧 **Reach me via email:** [jaiswalritesh150@gmail.com](mailto:jaiswalritesh150@gmail.com)
+
+---
+
 ## 🧠 Programming Languages
 
 <p align="left">
