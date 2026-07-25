@@ -65,6 +65,14 @@
 </p>
 
 
+## 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=Git, GitHub, VS Code, Jupyter Notebook, Google Colab" />
+</p>
+
+
+
 <!--
 **jaiswalritesh150-art/jaiswalritesh150-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
