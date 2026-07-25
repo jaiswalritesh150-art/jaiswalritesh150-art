@@ -71,9 +71,6 @@
   <img src="https://skillicons.dev/icons?i=Git, GitHub, VS Code, Jupyter Notebook, Google Colab" />
 </p>
 
-🙏 Thanks for visiting my GitHub!
-
-
 <!--
 **jaiswalritesh150-art/jaiswalritesh150-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -93,3 +90,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaiswalritesh150-art/jaiswalritesh150-art/output/github-contribution-grid-snake.svg" />
 </p>
+
+🙏 Thanks for visiting my GitHub!
