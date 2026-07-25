@@ -1,5 +1,12 @@
 ## Hi Ritesh This Side 
 
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritesh-jaiswal-63b685271//" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 <!--
 **jaiswalritesh150-art/jaiswalritesh150-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
