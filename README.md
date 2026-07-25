@@ -1,4 +1,11 @@
-## Hi Ritesh This Side 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=%F0%9F%91%8B%20Hi,%20I'm%20Ravi%20Shankar%20Gupta&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&center=true&vCenter=true&width=900&color=random&lines=Coder+%7C+Web+Developer+%7C+ECE+Engineer;DSA+Learner+%7C+Tech+Explorer;Building+Real+World+Projects" />
+</div>
 
 
 ## 🌐 Connect with Me
