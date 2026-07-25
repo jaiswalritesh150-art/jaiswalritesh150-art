@@ -30,6 +30,34 @@
 
 </p>
 
+
+## 🧠 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=Pyhton, Java , Cpp , Js" />
+</p>
+
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,Machine learning , AI , react,git,github,tailwind" />
+</p>
+
+## ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=FastAPI, React.js, PyTorch, NumPy, Pandas, Matplotlib, Sentence Transformers" />
+</p>
+
+
+## 🗄 Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+
 <!--
 **jaiswalritesh150-art/jaiswalritesh150-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
