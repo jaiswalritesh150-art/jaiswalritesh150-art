@@ -51,7 +51,7 @@
 ## ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,pytorch,numpy,pandas" />
 </p>
 
 - 🔹 **LLMs (Large Language Models)**
@@ -66,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- 🔎 **Vector Databases**: FAISS, ChromaDB
+- 🔎 **Vector Databases**: FAISS, ChromaDB, Pinecone
 
 ## 🛠 Tools & Platforms
 
@@ -81,8 +81,9 @@
 - 🧠 Large Language Models (LLMs)
 - 📚 Retrieval-Augmented Generation (RAG)
 - 🔗 LangChain & LangGraph
-- 🐍 Python ML Stack ( pandas, seaborn)
-- 🔎 Vector Databases (FAISS, ChromaDB)
+- 🤝 AI Agents & Multi-Agent Systems
+- 🐍 Python ML Stack (scikit-learn, pandas, seaborn)
+- 🔎 Vector Databases (FAISS, ChromaDB, Pinecone)
 
 ---
 
