@@ -54,17 +54,38 @@
   <img src="https://skillicons.dev/icons?i=fastapi,react,pytorch,numpy,pandas" />
 </p>
 
+- 🔹 **LLMs (Large Language Models)**
+- 🔹 **RAG (Retrieval-Augmented Generation)**
+- 🔹 **LangChain**
+- 🔹 **LangGraph**
+- 🔹 **Sentence Transformers**
+
 ## 🗄 Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+- 🔎 **Vector Databases**: FAISS, ChromaDB, Pinecone
+
 ## 🛠 Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
+
+---
+
+## 🤖 AI/ML Expertise
+
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain & LangGraph
+- 🤝 AI Agents & Multi-Agent Systems
+- 🐍 Python ML Stack (scikit-learn, pandas, seaborn)
+- 🔎 Vector Databases (FAISS, ChromaDB, Pinecone)
+
+---
 
 ## 🐍 GitHub Contribution Activity
 
