@@ -45,7 +45,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github" />
 </p>
 
 ## ⚙️ Frameworks & Libraries
@@ -54,11 +54,13 @@
   <img src="https://skillicons.dev/icons?i=fastapi,react,pytorch,numpy,pandas" />
 </p>
 
-- 🔹 **LLMs (Large Language Models)**
-- 🔹 **RAG (Retrieval-Augmented Generation)**
-- 🔹 **LangChain**
-- 🔹 **LangGraph**
-- 🔹 **Sentence Transformers**
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-teal?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-orange?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentenceTransformers-pink?style=for-the-badge&logo=transformers&logoColor=white" />
+</p>
 
 ## 🗄 Databases
 
@@ -66,7 +68,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- 🔎 **Vector Databases**: FAISS, ChromaDB, Pinecone
+<p align="left">
+  <img src="https://img.shields.io/badge/FAISS-darkblue?style=for-the-badge&logo=vector&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-lightblue?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
 
 ## 🛠 Tools & Platforms
 
@@ -78,12 +83,19 @@
 
 ## 🤖 AI/ML Expertise
 
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain & LangGraph
-- 🤝 AI Agents & Multi-Agent Systems
-- 🐍 Python ML Stack (scikit-learn, pandas, seaborn)
-- 🔎 Vector Databases (FAISS, ChromaDB, Pinecone)
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-teal?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-orange?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorDBs-darkgreen?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+
+- 🧠 Large Language Models (LLMs)  
+- 📚 Retrieval-Augmented Generation (RAG)  
+- 🔗 LangChain & LangGraph  
+- 🐍 Python ML Stack ( pandas, seaborn)  
+- 🔎 Vector Databases (FAISS, Pinecone)  
 
 ---
 
