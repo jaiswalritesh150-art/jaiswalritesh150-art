@@ -94,7 +94,7 @@
 - 🧠 Large Language Models (LLMs)  
 - 📚 Retrieval-Augmented Generation (RAG)  
 - 🔗 LangChain & LangGraph  
-- 🐍 Python ML Stack ( pandas, seaborn)  
+- 🐍 Python ML Stack ( pandas, numPy, seaborn)  
 - 🔎 Vector Databases (FAISS, Pinecone)  
 
 ---
