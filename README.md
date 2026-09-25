@@ -106,3 +106,4 @@
 </p>
 
 🙏 Thanks for visiting 
+dekho issme mujhe isme streamlit or versel add krna h to to tm mujhe ek updated ocde do jidde ki mai use kr ke apba ek proper git shi kr sku so please updated the code and add
