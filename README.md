@@ -62,7 +62,7 @@
 ## 🗄 Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 <p align="left">
@@ -104,6 +104,7 @@
 - 🔗 LangChain & LangGraph  
 - 🐍 Python ML Stack (pandas, NumPy, seaborn)  
 - 🔎 Vector Databases (FAISS, Pinecone)  
+- 🗄 Relational Databases (MySQL, PostgreSQL)  
 - 🎨 Streamlit for AI dashboards  
 - 🚀 Vercel for deployment  
 
