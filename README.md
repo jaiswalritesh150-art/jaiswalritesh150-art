@@ -18,15 +18,12 @@
   <a href="https://leetcode.com/u/ritesh_9090/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
-
   <a href="https://www.codechef.com/users/riteshjais_43/">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" />
   </a>
-
   <a href="https://www.geeksforgeeks.org/profile/jaiswalrijf2l?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
   </a>
-
   <a href="https://www.hackerrank.com/profile/jaiswalritesh150">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank" />
   </a>
@@ -81,6 +78,17 @@
 
 ---
 
+## 🎨 Deployment & Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+---
+
 ## 🤖 AI/ML Expertise
 
 <p align="left">
@@ -94,8 +102,10 @@
 - 🧠 Large Language Models (LLMs)  
 - 📚 Retrieval-Augmented Generation (RAG)  
 - 🔗 LangChain & LangGraph  
-- 🐍 Python ML Stack ( pandas, numPy, seaborn)  
+- 🐍 Python ML Stack (pandas, NumPy, seaborn)  
 - 🔎 Vector Databases (FAISS, Pinecone)  
+- 🎨 Streamlit for AI dashboards  
+- 🚀 Vercel for deployment  
 
 ---
 
@@ -105,4 +115,4 @@
   <img src="https://raw.githubusercontent.com/jaiswalritesh150-art/jaiswalritesh150-art/output/github-contribution-grid-snake.svg" />
 </p>
 
-🙏 Thanks for visiting 
+🙏 Thanks for visiting
